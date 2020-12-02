@@ -1,6 +1,6 @@
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
 #AutoIt3Wrapper_Icon=C:\Users\buc\Downloads\Notencopy.ico
-#AutoIt3Wrapper_Res_Comment=Erstellt von Sebastian Buch. Kontakt: buch@hems.de
+#AutoIt3Wrapper_Res_Comment=Erstellt von Sebastian Buch. 
 #AutoIt3Wrapper_Res_Description=Hilft bei der Eingabe der Noten in die LUS-Datenbank
 #AutoIt3Wrapper_Res_Fileversion=1.19
 #AutoIt3Wrapper_Res_LegalCopyright=Benutzung auf eigene Gefahr.Software ohne Gewähr
