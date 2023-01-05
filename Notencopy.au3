@@ -36,7 +36,7 @@ $Button2 = GUICtrlCreateButton("mit ENC verbinden", 8, 168, 147, 33)
 GUICtrlSetFont(-1, 10, 400, 0, "Arial")
 $Button3 = GUICtrlCreateButton("Zwischenablage >> ENC", 8, 208, 147, 41)
 GUICtrlSetFont(-1, 10, 400, 0, "Arial")
-$Label1 = GUICtrlCreateLabel("buc@hems.de               v1.23", 8, 272, 142, 17)
+$Label1 = GUICtrlCreateLabel("buc∂hems.de               v1.23", 8, 272, 142, 17)
 GUISetState(@SW_SHOW)
 #EndRegion ### END Koda GUI section ###
 
