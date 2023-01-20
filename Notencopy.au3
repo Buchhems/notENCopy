@@ -23,12 +23,12 @@ Global $fnameLUSD	;und ENC
 Local $bFileInstall = True ; Change to True and ammend the file paths accordingly.
 
 ; This will install the file jpg to the script location.
-If $bFileInstall Then FileInstall("C:\Users\Sebastian\Downloads\Notencopy.jpg", @ScriptDir & "\Notencopy.jpg")
+If $bFileInstall Then FileInstall("Notencopy.jpg", @ScriptDir & "\Notencopy.jpg")
 
 #Region ### START Koda GUI section ### Form=
 $Form1_1 = GUICreate("NotENCopy", 163, 298, 192, 124)
-GUISetIcon("C:\Users\Sebastian\Downloads\Notencopy.ico")
-$Pic1 = GUICtrlCreatePic("C:\Users\Sebastian\Downloads\Notencopy.jpg", 8, 8, 148, 113)
+GUISetIcon("Notencopy.ico")
+$Pic1 = GUICtrlCreatePic("Notencopy.jpg", 8, 8, 148, 113)
 $Button1 = GUICtrlCreateButton("Hilfe", 8, 136, 147, 25)
 GUICtrlSetFont(-1, 10, 400, 0, "Arial")
 GUICtrlSetBkColor(-1, 0xC0DCC0)
@@ -36,7 +36,7 @@ $Button2 = GUICtrlCreateButton("mit ENC verbinden", 8, 168, 147, 33)
 GUICtrlSetFont(-1, 10, 400, 0, "Arial")
 $Button3 = GUICtrlCreateButton("Zwischenablage >> ENC", 8, 208, 147, 41)
 GUICtrlSetFont(-1, 10, 400, 0, "Arial")
-$Label1 = GUICtrlCreateLabel("buc @ hems.de               v1.23", 8, 272, 142, 17)
+$Label1 = GUICtrlCreateLabel("buc @ hems.de    v1.24", 8, 272, 142, 17)
 GUISetState(@SW_SHOW)
 #EndRegion ### END Koda GUI section ###
 
