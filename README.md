@@ -92,7 +92,4 @@ Keine Haftung für Datenverlust oder Fehlübertragungen.
 
 ## 🔧 Kompilierung
 
-Zur Erstellung einer ausführbaren Datei (`.exe`) mit AutoIt:
-
-```bash
-Compile Script mit AutoIt3Wrapper
+Zur Erstellung einer ausführbaren Datei (`.exe`) muss die AU-Datei in AutoIt kompiliert werden.
